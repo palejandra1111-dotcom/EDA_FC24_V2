@@ -1,0 +1,44 @@
+id_statsbomb,id_fc24,player_name,team,club_name,league,position,partidos_jugados,overall,metrica_examinada,valor_observado
+49832,253437,Marta Cardona De Miguel,Atletico Madrid W,Atletico Madrid W,Liga F,Forward,24,79,xg_por_aparicion,0.0872336715
+409196,277123,Carlota Suárez Crespo,Granada W,Granada W,Liga F,Forward,27,68,xg_por_aparicion,0.26224148728888885
+408970,276937,Vanessa Haim,Nürnberg W,Nürnberg W,Frauen Bundesliga,Forward,20,68,xg_por_aparicion,0.2645677052
+81580,270407,Agnes Beever-Jones,Chelsea FCW,Chelsea W,FA Women's Super League,Forward,17,66,xg_por_aparicion,0.3522125121764706
+5086,267269,Rachel Hill,San Diego Wave,San Diego Wave W,NWSL,Forward,18,81,xg_por_aparicion,0.061091214944444444
+13881,226973,Eva Sofia Jakobsson,San Diego Wave,San Diego Wave W,NWSL,Forward,17,82,xg_por_aparicion,0.0829622351764706
+389492,273486,Messiah Bright,Orlando Pride,Orlando Pride W,NWSL,Forward,22,67,xg_por_aparicion,0.218110086
+10126,228565,Clarisse Le Bihan,Angel City,Angel City W,NWSL,Forward,17,76,xg_por_aparicion,0.06376954
+49900,272202,Iris Arnaiz Gil,Real Sociedad de Fútbol,Real Sociedad W,Liga F,Midfielder,25,78,pases_a_tiro_por_aparicion,0.12
+409185,275774,Alicia Redondo González,Granada W,Granada W,Liga F,Midfielder,30,66,pases_a_tiro_por_aparicion,0.9666666666666667
+46947,271867,Yvonne Zielinski,Duisburg WFC,MSV Duisburg W,Frauen Bundesliga,Midfielder,17,78,pases_a_tiro_por_aparicion,0.29411764705882354
+46986,247790,Lena Lattwein,VfL Wolfsburg WFC,Wolfsburg W,Frauen Bundesliga,Midfielder,13,81,pases_a_tiro_por_aparicion,0.15384615384615385
+10167,261835,Tatiana Vanessa Ferreira Pinto,Brighton & Hove Albion WFC,Brighton & Hove Albion W,FA Women's Super League,Midfielder,20,80,pases_a_tiro_por_aparicion,0.45
+19501,265271,Hayley Ladd,Manchester United W,Manchester United W,FA Women's Super League,Midfielder,11,81,pases_a_tiro_por_aparicion,0.2727272727272727
+46740,265333,Grace Clinton,Tottenham Hotspur Women,Tottenham W,FA Women's Super League,Midfielder,20,69,pases_a_tiro_por_aparicion,1.25
+130020,264960,Delanie Sheehan,NJ/NY Gotham FC,NJ/NY Gotham W,NWSL,Midfielder,21,71,pases_a_tiro_por_aparicion,1.0952380952380953
+5003,232074,Emily Ann Sonnett,Seattle Reign,OL Reign W,NWSL,Midfielder,22,82,pases_a_tiro_por_aparicion,0.22727272727272727
+49939,272257,Elba Verges Prats,SD Eibar,Eibar W,Liga F,Defender,28,70,intercepciones_favorables_por_aparicion,0.7142857142857143
+10148,227191,Marta Torrejón Moya,Barcelona WFC,Barcelona W,Liga F,Defender,28,84,intercepciones_favorables_por_aparicion,0.17857142857142858
+24374,242896,Ingrid Syrstad Engen,Barcelona WFC,Barcelona W,Liga F,Defender,22,82,intercepciones_favorables_por_aparicion,0.22727272727272727
+51062,256303,Sheila García Gómez,Atletico Madrid W,Atletico Madrid W,Liga F,Defender,19,79,intercepciones_favorables_por_aparicion,0.21052631578947367
+124002,272205,Izarne Sarasola Beain,Real Sociedad de Fútbol,Real Sociedad W,Liga F,Defender,22,69,intercepciones_favorables_por_aparicion,0.7272727272727273
+50158,227212,María de Alharilla Casado Morente,Levante UD Femenino,Levante W,Liga F,Defender,11,79,intercepciones_favorables_por_aparicion,0.0
+50360,272013,Núria Mendoza Miralles,Levante UD Femenino,Levante W,Liga F,Defender,28,79,intercepciones_favorables_por_aparicion,0.25
+49840,268995,Claudia Florentino Vivó,Valencia CF,Valencia W,Liga F,Defender,29,70,intercepciones_favorables_por_aparicion,0.6896551724137931
+321803,272180,Raquel Morcillo Aparicio,Villarreal,Villarreal W,Liga F,Defender,26,70,intercepciones_favorables_por_aparicion,1.1538461538461537
+327678,272174,Julia Mora Tobías,FC Levante Badalona,Levante Las Planas W,Liga F,Defender,24,69,intercepciones_favorables_por_aparicion,0.9166666666666666
+4970,277042,Amanda Frisbie,FC Levante Badalona,Levante Las Planas W,Liga F,Defender,11,67,intercepciones_favorables_por_aparicion,0.7272727272727273
+49922,264945,Madeleine Steck,Nürnberg W,Nürnberg W,Frauen Bundesliga,Defender,21,68,intercepciones_favorables_por_aparicion,1.0476190476190477
+4633,226998,Magdalena Lilly Eriksson,Bayern München W,Bayern Munich W,Frauen Bundesliga,Defender,13,83,intercepciones_favorables_por_aparicion,0.3076923076923077
+10119,264886,Glódís Perla Viggósdóttir,Bayern München W,Bayern Munich W,Frauen Bundesliga,Defender,22,83,intercepciones_favorables_por_aparicion,0.2727272727272727
+49045,265385,Victoria Krug,RB Leipzig W,RB Leipzig W,Frauen Bundesliga,Defender,21,69,intercepciones_favorables_por_aparicion,1.2857142857142858
+22337,265293,Maya Le Tissier,Manchester United W,Manchester United W,FA Women's Super League,Defender,22,81,intercepciones_favorables_por_aparicion,0.3181818181818182
+50193,273687,Anouk Denton,West Ham United LFC,West Ham United W,FA Women's Super League,Defender,15,66,intercepciones_favorables_por_aparicion,1.0666666666666667
+15290,227392,Ashley Elizabeth Marie Lawrence,Chelsea FCW,Chelsea W,FA Women's Super League,Defender,18,86,intercepciones_favorables_por_aparicion,0.3333333333333333
+32169,277911,Jamie-Lee Napier,Bristol City WFC,Bristol City W,FA Women's Super League,Defender,19,68,intercepciones_favorables_por_aparicion,0.8947368421052632
+5000,227119,Stephanie-Elise Catley,Arsenal WFC,Arsenal W,FA Women's Super League,Defender,22,83,intercepciones_favorables_por_aparicion,0.18181818181818182
+26092,226979,Amanda Ilestedt,Arsenal WFC,Arsenal W,FA Women's Super League,Defender,12,84,intercepciones_favorables_por_aparicion,0.25
+219423,267382,Naomi Haile Girma,San Diego Wave,San Diego Wave W,NWSL,Defender,20,80,intercepciones_favorables_por_aparicion,0.35
+119103,267261,Tara McKeown,Washington Spirit,Washington Spirit W,NWSL,Defender,21,73,intercepciones_favorables_por_aparicion,1.2380952380952381
+223157,268348,Julia Nicole Lester,Racing Louisville FC,Racing Louisville W,NWSL,Defender,13,74,intercepciones_favorables_por_aparicion,1.1538461538461537
+107492,267209,Phoebe McClernon,Seattle Reign,OL Reign W,NWSL,Defender,12,71,intercepciones_favorables_por_aparicion,1.1666666666666667
+5030,226177,Rebecca Elizabeth Sauerbrunn,Portland Thorns,Portland Thorns W,NWSL,Defender,10,85,intercepciones_favorables_por_aparicion,0.3

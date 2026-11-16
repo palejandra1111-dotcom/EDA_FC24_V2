@@ -1,0 +1,21 @@
+posicion,liga,n,spearman
+Forward,Liga F,52,0.5881557040588521
+Forward,Frauen Bundesliga,46,0.5062739067167183
+Forward,NWSL,47,0.458317984876734
+Forward,Serie A Women,3,
+Forward,FA Women's Super League,39,0.5280257224329276
+Midfielder,Liga F,57,0.5520048278013876
+Midfielder,Frauen Bundesliga,46,0.41962608386883193
+Midfielder,NWSL,49,0.38171667204322624
+Midfielder,Serie A Women,4,
+Midfielder,FA Women's Super League,35,0.39003251360157615
+Defender,Liga F,72,0.0850170194348496
+Defender,Frauen Bundesliga,65,0.3456180632585467
+Defender,NWSL,50,0.2194128789093796
+Defender,Serie A Women,5,
+Defender,FA Women's Super League,54,0.17019016884975444
+Goalkeeper,Liga F,15,-0.44883954434211765
+Goalkeeper,Frauen Bundesliga,11,-0.5570834332722122
+Goalkeeper,NWSL,6,
+Goalkeeper,Serie A Women,0,
+Goalkeeper,FA Women's Super League,10,-0.4146418546569908
